@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router';
-import { Button } from '@material-ui/core';
+import { Button } from '@mui/material';
 import { FaEye, FaEyeSlash } from 'react-icons/fa';
 import {
   MDBContainer,

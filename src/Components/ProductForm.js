@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Button } from '@material-ui/core';
+import { Button } from '@mui/material';
 import { useNavigate } from 'react-router';
 import gas from "./cheffire.jpg";
 import { Link } from 'react-router-dom';
